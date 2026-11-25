@@ -1,0 +1,10 @@
+{
+  "name": "金监罚单通 · 专项监管处罚检索",
+  "short_name": "金监罚单通",
+  "description": "银行及金融机构票据、个人经营贷、贷款三查监管处罚每日自动更新检索应用",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#0f3d56",
+  "lang": "zh-CN"
+}

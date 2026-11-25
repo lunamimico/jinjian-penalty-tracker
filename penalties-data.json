@@ -1,0 +1,2859 @@
+{
+  "schemaVersion": "1.0",
+  "updatedAt": "2026-11-25T20:06:43+08:00",
+  "source": "国家金融监督管理总局及各地监管局公开行政处罚信息公示表",
+  "topics": [
+    "票据",
+    "个人经营贷",
+    "三查"
+  ],
+  "records": [
+    {
+      "id": "nfra-fff9738c8a46",
+      "docNo": "青岛金融监管公开表(2026-11-20)",
+      "institution": "兴业银行股份有限公司青岛分行、青岛经济技术开发区支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 50.0,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "对兴业银行青岛分行罚款50万元，对时任该分行行长彭光辉给予警告并罚款5万元，对时任该分行客户经理韩真珍给予警告并罚款5万元；对兴业银行青岛经济技术开发区支行罚款30万元，对时任该支行副行长张明给予警告。",
+      "responsible": "对兴业银行青岛分行罚款50万元，对时任该分行行长彭光辉给予警告并罚款5万元，对时任该分行客户经理韩真珍给予警告并罚款5万元",
+      "authority": "青岛金融监管局",
+      "region": "青岛",
+      "date": "2026-11-20",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票"
+      ],
+      "violation": "兴业银行青岛分行信贷管理不尽职；兴业银行青岛经济技术开发区支行流动资金贷款转作银行承兑汇票保证金",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1279778"
+    },
+    {
+      "id": "nfra-f86bbabedce0",
+      "docNo": "青岛金融监管公开表(2026-11-20)",
+      "institution": "招商银行股份有限公司青岛分行、青岛城阳支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "对招商银行青岛分行罚款30万元，对时任该分行零售信贷部房贷直营中心二手房团队长安帅给予警告；对招商银行青岛城阳支行罚款30万元，对时任该支行行长助理邢禹给予警告。",
+      "responsible": "对招商银行青岛分行罚款30万元，对时任该分行零售信贷部房贷直营中心二手房团队长安帅给予警告",
+      "authority": "青岛金融监管局",
+      "region": "青岛",
+      "date": "2026-11-20",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票"
+      ],
+      "violation": "招商银行青岛分行对二手房按揭贷款借款人首付款情况审核不到位；招商银行青岛城阳支行银行承兑汇票办理不审慎",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1279778"
+    },
+    {
+      "id": "nfra-98c57862c808",
+      "docNo": "辽宁金融监管公开表(2026-11-18)",
+      "institution": "中国建设银行股份有限公司沈阳铁西支行",
+      "institutionType": "国有大行",
+      "fineAmount": 50.0,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "罚款50万元",
+      "responsible": "详见决定书",
+      "authority": "辽宁金融监管局",
+      "region": "辽宁",
+      "date": "2026-11-18",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查",
+        "贷后管理"
+      ],
+      "violation": "个人住房贷款贷前调查不尽职、贷后管理不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1279424"
+    },
+    {
+      "id": "nfra-2026-11-xm-001",
+      "docNo": "泉金监罚决字〔2026〕11月公开表",
+      "institution": "厦门银行股份有限公司丰泽支行",
+      "institutionType": "城商行",
+      "fineAmount": 30,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "罚款30万元",
+      "responsible": "连紫霞被警告",
+      "authority": "泉州金融监管分局",
+      "region": "福建",
+      "date": "2026-11-16",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "“三查”不尽职"
+      ],
+      "violation": "个人经营性贷款“三查”不尽职。",
+      "complianceNote": "个人经营性贷款需严格落实贷前经营实体核验、贷中独立审查及贷后资金流向追踪。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-05906662f049",
+      "docNo": "山东公开表(2026-11-16)",
+      "institution": "中国农业银行股份有限公司临沂临沭县支行",
+      "institutionType": "国有大行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "罚款30万元",
+      "responsible": "详见决定书",
+      "authority": "山东",
+      "region": "山东",
+      "date": "2026-11-16",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票"
+      ],
+      "violation": "银行承兑汇票业务贸易背景真实性审查不严",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1279790"
+    },
+    {
+      "id": "nfra-1b1f163f9f47",
+      "docNo": "山东公开表(2026-11-16)",
+      "institution": "季三茗〔时任中国农业银行股份有限公司临沂临沭县支行公司业务部副经理（主持工作）〕",
+      "institutionType": "国有大行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "警告",
+      "responsible": "详见决定书",
+      "authority": "山东",
+      "region": "山东",
+      "date": "2026-11-16",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票"
+      ],
+      "violation": "银行承兑汇票业务贸易背景真实性审查不严",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1279790"
+    },
+    {
+      "id": "nfra-2026-11-xy-037",
+      "docNo": "信金罚决字〔2026〕37号",
+      "institution": "上海浦东发展银行股份有限公司信阳分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 30,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "罚款30万元",
+      "responsible": "温双（零售客户经理）被警告",
+      "authority": "信阳金融监管分局",
+      "region": "河南",
+      "date": "2026-11-13",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款三查未尽职"
+      ],
+      "violation": "贷款三查未尽职。",
+      "complianceNote": "零售信贷条线须压实客户经理贷前调查与贷后回访留痕，杜绝形式化审查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-1f0248dec2f0",
+      "docNo": "深圳金融监管公开表(2026-10-30)",
+      "institution": "广东华润银行深圳分行",
+      "institutionType": "城商行",
+      "fineAmount": 295.0,
+      "fineDisplay": "295万元",
+      "penaltyDetail": "对机构罚款295万元，对程靖涵、袁权分别给予警告并处5万元罚款，对张馨文给予警告。",
+      "responsible": "对机构罚款295万元，对程靖涵、袁权分别给予警告并处5万元罚款，对张馨文给予警告",
+      "authority": "深圳金融监管局",
+      "region": "深圳",
+      "date": "2026-10-30",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "个人经营性",
+        "经营性贷款",
+        "三查"
+      ],
+      "violation": "违规开展保理融资业务，绩效考评不符合监管要求，个人经营性贷款“三查”不到位",
+      "complianceNote": "穿透核验个人经营贷实际经营实体、流水匹配度及资金闭环流向。压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1276890"
+    },
+    {
+      "id": "nfra-a75ccc106f0f",
+      "docNo": "云南金融监管公开表(2026-10-30)",
+      "institution": "中国农业发展银行云南省分行",
+      "institutionType": "城商行",
+      "fineAmount": 190.0,
+      "fineDisplay": "190万元",
+      "penaltyDetail": "对中国农业发展银行云南省分行罚款190万元；对杨洁、范正江予以警告",
+      "responsible": "对中国农业发展银行云南省分行罚款190万元",
+      "authority": "云南金融监管局",
+      "region": "云南",
+      "date": "2026-10-30",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理",
+        "信贷资金被挪用"
+      ],
+      "violation": "固定资产贷款管理严重不审慎；项目贷款管理严重不审慎；贷后管理不到位，信贷资金被挪用；项目资本金来源及使用审查不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1276914"
+    },
+    {
+      "id": "nfra-be8a3da7338a",
+      "docNo": "国家金融监督公开表(2026-10-30)",
+      "institution": "中国农业银行股份有限公司太原市高新技术开发区支行、太原市城西支行",
+      "institutionType": "国有大行",
+      "fineAmount": 55.0,
+      "fineDisplay": "55万元",
+      "penaltyDetail": "对中国农业银行股份有限公司太原市高新技术开发区支行、太原市城西支行罚款合计55万元；对孟禄警告；对杨晋军警告，罚款6万元。",
+      "responsible": "对中国农业银行股份有限公司太原市高新技术开发区支行、太原市城西支行罚款合计55万元",
+      "authority": "国家金融监督管理总局山西监管局",
+      "region": "山西",
+      "date": "2026-10-30",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理"
+      ],
+      "violation": "未按项目资本金同比例发放贷款；未按规定开展贷后管理",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1277143"
+    },
+    {
+      "id": "nfra-22dba593ed77",
+      "docNo": "青岛金融监管公开表(2026-10-30)",
+      "institution": "齐鲁银行股份有限公司青岛分行、青岛平度支行",
+      "institutionType": "城商行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "对齐鲁银行青岛分行罚款五十万元；对时任齐鲁银行青岛分行风险管理部副总经理陶锐罚款八万元。对齐鲁银行青岛平度支行罚款三十万元；对时任齐鲁银行青岛平度支行行长王凯给予警告。",
+      "responsible": "对齐鲁银行青岛分行罚款五十万元",
+      "authority": "青岛金融监管局",
+      "region": "青岛",
+      "date": "2026-10-30",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贸易背景审查",
+        "贷后管理"
+      ],
+      "violation": "齐鲁银行青岛分行贷款用途审查不尽职，贷后管理不到位；齐鲁银行青岛平度支行信用证贸易背景审查不严，福费廷资金回流开证申请人或其股东及关联方",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1276934"
+    },
+    {
+      "id": "nfra-2026-sd-121",
+      "docNo": "鲁金罚决字〔2026〕121-129号",
+      "institution": "平安银行股份有限公司济南分行、临沂分行、潍坊分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 105,
+      "fineDisplay": "105万元",
+      "penaltyDetail": "三家分行各罚款35万元，合计罚款105万元",
+      "responsible": "宋芳玉、吕伟伟、郭翔、张学艳、朱文帅、李永孝分别被警告",
+      "authority": "山东金融监管局",
+      "region": "山东",
+      "date": "2026-10-28",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营贷款",
+        "尽职调查不严",
+        "贸易背景审查不尽职"
+      ],
+      "violation": "济南分行个人经营贷款管理不尽职；临沂分行房屋抵押贷款用途尽职调查不严；潍坊分行信用证贸易背景审查不尽职。",
+      "complianceNote": "个人经营贷与房抵贷需穿透核实经营实体与资金流向，严格落实贷前用途尽职调查与贸易背景真实性审查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-yk-010",
+      "docNo": "营金监罚决字〔2026〕10-13号",
+      "institution": "大连农村商业银行股份有限公司营口分行",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 40,
+      "fineDisplay": "40万元",
+      "penaltyDetail": "罚款40万元",
+      "responsible": "袁哲（时任副行长、行长）被警告",
+      "authority": "营口金融监管分局",
+      "region": "辽宁",
+      "date": "2026-10-23",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不到位"
+      ],
+      "violation": "贷款“三查”不到位；信贷资产风险分类不准确。",
+      "complianceNote": "三查不到位往往伴随五级分类失真，需同步加强贷后风险预警与资产质量真实反映。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-zz-021",
+      "docNo": "漳金监罚决字〔2026〕公开表",
+      "institution": "交通银行股份有限公司漳州分行",
+      "institutionType": "国有大行",
+      "fineAmount": 65,
+      "fineDisplay": "65万元",
+      "penaltyDetail": "合计处以65万元罚款",
+      "responsible": "黄少伟被警告",
+      "authority": "漳州金融监管分局",
+      "region": "福建",
+      "date": "2026-10-21",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "贷前调查不尽职",
+        "贷后管理不到位"
+      ],
+      "violation": "流动资金贷款贷前调查不尽职，贷后管理不到位；个人经营性贷款贷前调查不尽职，贷后管理不到位等。",
+      "complianceNote": "个人经营贷与流贷须严格执行双人实地调查与资金受托支付后穿透核查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-yl-020",
+      "docNo": "榆金监罚决字〔2026〕公开表",
+      "institution": "榆林农村商业银行股份有限公司（原榆阳农商银行）",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 50,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "罚款50万元",
+      "responsible": "汪振敏禁业8年；姜继成禁业6年；刘世平、杭海霞、苗培胜被警告",
+      "authority": "榆林金融监管分局",
+      "region": "陕西",
+      "date": "2026-10-20",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不到位"
+      ],
+      "violation": "贷款“三查”不到位。",
+      "complianceNote": "基层农商行贷款“三查”失守已高频触发多年禁业处罚，须强化信贷审批独立性与贷后检查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-pt-001",
+      "docNo": "莆金监罚决字〔2026〕公开表",
+      "institution": "福建海峡银行股份有限公司莆田分行",
+      "institutionType": "城商行",
+      "fineAmount": 95,
+      "fineDisplay": "95万元",
+      "penaltyDetail": "合计处以95万元罚款",
+      "responsible": "曾加进、柯振泽分别被警告",
+      "authority": "莆田金融监管分局",
+      "region": "福建",
+      "date": "2026-10-19",
+      "categories": [
+        "个人经营贷"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款管理不到位"
+      ],
+      "violation": "流动资金贷款、保理业务、个人经营性贷款管理不到位。",
+      "complianceNote": "横跨流贷、保理与个人经营性贷款三类业务违规，须强化信贷全流程内控管理。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-pt-002",
+      "docNo": "莆金监罚决字〔2026〕农行公开表",
+      "institution": "中国农业银行股份有限公司莆田分行",
+      "institutionType": "国有大行",
+      "fineAmount": 60,
+      "fineDisplay": "60万元",
+      "penaltyDetail": "合计处以60万元罚款",
+      "responsible": "童柳被警告",
+      "authority": "莆田金融监管分局",
+      "region": "福建",
+      "date": "2026-10-19",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "贷前调查不尽职",
+        "贷后管理不到位"
+      ],
+      "violation": "个人经营性贷款贷前调查不尽职；线上个人消费贷款贷后管理不到位。",
+      "complianceNote": "线下经营贷贷前尽调与线上消费贷贷后监控均须建立可追溯的数字化风控台账。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-qdn-032",
+      "docNo": "黔东南金罚决字〔2026〕32-34号",
+      "institution": "岑巩县农村信用合作联社",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 30,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "罚款30万元",
+      "responsible": "易湘平、罗兴成（时任理事长）均被警告",
+      "authority": "黔东南金融监管分局",
+      "region": "贵州",
+      "date": "2026-10-19",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "违法违规开展票据业务"
+      ],
+      "violation": "违法违规开展票据业务。",
+      "complianceNote": "农村中小金融机构开展票据业务须严守业务资质边界与真实贸易背景审查底线。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-lx-004",
+      "docNo": "临金监罚决〔2026〕4-7号",
+      "institution": "中国农业银行股份有限公司临夏分行",
+      "institutionType": "国有大行",
+      "fineAmount": 35,
+      "fineDisplay": "35万元",
+      "penaltyDetail": "罚款35万元",
+      "responsible": "马忠明、焦兴国警告并罚款5万元；马诤被警告",
+      "authority": "临夏金融监管分局",
+      "region": "甘肃",
+      "date": "2026-10-16",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款三查不尽职"
+      ],
+      "violation": "贷款三查不尽职。",
+      "complianceNote": "严格执行贷前调查、贷时审查、贷后检查岗位分离与问责机制。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-wz-015",
+      "docNo": "万金监罚决字〔2026〕公开表",
+      "institution": "中国邮政储蓄银行股份有限公司梁平区支行",
+      "institutionType": "国有大行",
+      "fineAmount": 75,
+      "fineDisplay": "75万元",
+      "penaltyDetail": "罚款75万元",
+      "responsible": "徐瑶被禁止从事银行业工作10年",
+      "authority": "万州金融监管分局",
+      "region": "重庆",
+      "date": "2026-10-15",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不到位"
+      ],
+      "violation": "贷款“三查”不到位；员工行为管理不到位。",
+      "complianceNote": "贷款“三查”失守叠加员工异常行为风险，易引发长期禁业等重罚。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-sz-010",
+      "docNo": "深金罚决字〔2026〕10月公开表",
+      "institution": "广东华润银行股份有限公司深圳分行",
+      "institutionType": "城商行",
+      "fineAmount": 110,
+      "fineDisplay": "110万元",
+      "penaltyDetail": "罚没110万元",
+      "responsible": "2名责任人被警告；3名责任人分别禁业4年、6年、7年",
+      "authority": "深圳金融监管局",
+      "region": "广东",
+      "date": "2026-10-10",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "贸易背景真实性审查不严",
+        "超授信额度签发"
+      ],
+      "violation": "银行承兑汇票贸易背景真实性审查不严；超授信额度签发银行承兑汇票。",
+      "complianceNote": "严禁超授信额度开票及形式审查贸易合同，须严格校验增值税发票与真实物流凭证。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-su-010",
+      "docNo": "苏金罚决字〔2026〕10月公开表",
+      "institution": "浙商银行股份有限公司苏州分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 110,
+      "fineDisplay": "110万元",
+      "penaltyDetail": "罚款110万元",
+      "responsible": "张辰威、张艺玲被警告并罚款合计14万元",
+      "authority": "苏州金融监管分局",
+      "region": "江苏",
+      "date": "2026-10-10",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据业务审核不严"
+      ],
+      "violation": "票据业务审核不严；流动资金贷款管理不到位。",
+      "complianceNote": "同步排查票据审核与流贷资金用途，严防信贷与票据交叉违规。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-10-sh-008",
+      "docNo": "沪金罚决字〔2026〕10月公开表",
+      "institution": "中国农业银行股份有限公司上海浦东分行",
+      "institutionType": "国有大行",
+      "fineAmount": 60,
+      "fineDisplay": "60万元",
+      "penaltyDetail": "罚款60万元",
+      "responsible": "李志鹏（个贷中心客户经理）被警告",
+      "authority": "上海金融监管局",
+      "region": "上海",
+      "date": "2026-10-08",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人贷款贷后管理严重违反审慎经营规则"
+      ],
+      "violation": "押品管理严重违反审慎经营规则；个人贷款贷后管理严重违反审慎经营规则。",
+      "complianceNote": "强化个人贷款押品动态估值监测与贷后资金用途跟踪。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-09-hb-001",
+      "docNo": "鄂金罚决字〔2026〕9月公开表",
+      "institution": "中国工商银行股份有限公司湖北省分行",
+      "institutionType": "国有大行",
+      "fineAmount": 405,
+      "fineDisplay": "405万元",
+      "penaltyDetail": "罚款405万元",
+      "responsible": "叶静芳等6人被警告；洪星、杨晓磊、冯顺新警告并罚款合计15万元",
+      "authority": "湖北金融监管局",
+      "region": "湖北",
+      "date": "2026-09-30",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不尽职"
+      ],
+      "violation": "贷款“三查”不尽职；违规发放保理融资；服务收费质价不符；浮利分费等。",
+      "complianceNote": "省分行级大额罚单突出贷款“三查”与保理融资真实性审查短板。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-09-hb-002",
+      "docNo": "鄂金罚决字〔2026〕湖北银行公开表",
+      "institution": "湖北银行股份有限公司",
+      "institutionType": "城商行",
+      "fineAmount": 285,
+      "fineDisplay": "285万元",
+      "penaltyDetail": "罚款285万元",
+      "responsible": "霍明、彭洁等7人被警告并合计罚款10万元",
+      "authority": "湖北金融监管局",
+      "region": "湖北",
+      "date": "2026-09-30",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票业务管理不尽职"
+      ],
+      "violation": "贷款业务管理不审慎；银行承兑汇票业务管理不尽职；债权投资业务管理不尽职；监管标准化数据报送不合规等。",
+      "complianceNote": "银行承兑汇票与表内信贷须实行统一授信、穿透审查与准确数据报送。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-09-cz-030",
+      "docNo": "常金监罚决字〔2026〕公开表",
+      "institution": "苏州银行股份有限公司常州分行",
+      "institutionType": "城商行",
+      "fineAmount": 100,
+      "fineDisplay": "100万元",
+      "penaltyDetail": "罚款100万元",
+      "responsible": "葛琳禁业5年；刘海涛禁业15年",
+      "authority": "常州金融监管分局",
+      "region": "江苏",
+      "date": "2026-09-30",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查不尽职",
+        "贷款审查不尽职"
+      ],
+      "violation": "员工行为管理不到位；内部控制不到位；贷前调查不尽职；贷款审查不尽职。",
+      "complianceNote": "贷前调查与贷中审查双环节失守引发长年限禁业问责，须严格落实独立审批制。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-09-yc-030",
+      "docNo": "永金监罚决字〔2026〕公开表",
+      "institution": "中国工商银行股份有限公司重庆荣昌支行",
+      "institutionType": "国有大行",
+      "fineAmount": 65,
+      "fineDisplay": "65万元",
+      "penaltyDetail": "罚款65万元",
+      "responsible": "苏婷被警告",
+      "authority": "永川金融监管分局",
+      "region": "重庆",
+      "date": "2026-09-30",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不到位"
+      ],
+      "violation": "贷款承诺费收取不规范；贷款“三查”不到位。",
+      "complianceNote": "规范信贷服务收费并同步落实贷前、贷中、贷后全流程尽职履责。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-09-ll-030",
+      "docNo": "吕金监罚决字〔2026〕公开表",
+      "institution": "招商银行股份有限公司吕梁分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 60,
+      "fineDisplay": "60万元",
+      "penaltyDetail": "责令改正并罚款60万元",
+      "responsible": "曹利博警告并罚款8万元；刘启鹏、王新平被警告",
+      "authority": "吕梁金融监管分局",
+      "region": "山西",
+      "date": "2026-09-30",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理不尽责",
+        "贷款资金被挪用",
+        "违规办理票据业务"
+      ],
+      "violation": "贷后管理不尽责，贷款资金被挪用；违规办理票据业务。",
+      "complianceNote": "防范信贷资金挪用与票据业务违规联动风险，加强账户流水回溯检查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-09-hg-024",
+      "docNo": "黄金监罚决字〔2026〕公开表",
+      "institution": "湖北黄冈农村商业银行股份有限公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 55,
+      "fineDisplay": "55万元",
+      "penaltyDetail": "罚款55万元",
+      "responsible": "黄琳被警告并禁止从事银行业工作10年",
+      "authority": "黄冈金融监管分局",
+      "region": "湖北",
+      "date": "2026-09-24",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不尽职"
+      ],
+      "violation": "员工行为管理不到位；贷款“三查”不尽职等。",
+      "complianceNote": "加强基层网点客户经理行为排查与贷款“三查”档案交叉抽检。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-09-dl-023",
+      "docNo": "大金罚决字〔2026〕9月公开表",
+      "institution": "中国建设银行股份有限公司大连市分行、中山支行、金普新区分行",
+      "institutionType": "国有大行",
+      "fineAmount": 160,
+      "fineDisplay": "160万元",
+      "penaltyDetail": "三家分支机构分别被罚款80万元、30万元、50万元，合计160万元",
+      "responsible": "李彧、率长江均被禁止从事银行业工作10年",
+      "authority": "大连金融监管局",
+      "region": "辽宁",
+      "date": "2026-09-23",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款三查不到位",
+        "票据业务管理不到位"
+      ],
+      "violation": "贷款三查不到位；票据业务管理不到位。",
+      "complianceNote": "分行及下辖支行联动受罚且2名负责人禁业十年，须严控票据与信贷合规底线。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-949a4fc891d2",
+      "docNo": "金融监管总局公开表(2026-08-21)",
+      "institution": "渤海银行股份有限公司",
+      "institutionType": "股份制银行",
+      "fineAmount": 5015.0,
+      "fineDisplay": "5015万元",
+      "penaltyDetail": "对渤海银行股份有限公司罚款5015万元。对佟志慧、陆耀石、丁枭警告并罚款共计22万元。",
+      "responsible": "对渤海银行股份有限公司罚款5015万元",
+      "authority": "金融监管总局",
+      "region": "全国",
+      "date": "2026-08-21",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据"
+      ],
+      "violation": "相关贷款、票据、理财业务不审慎等。",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1268890"
+    },
+    {
+      "id": "nfra-2026-08-fj-012",
+      "docNo": "闽金罚决字〔2026〕12号",
+      "institution": "中国邮政储蓄银行股份有限公司福建省分行",
+      "institutionType": "国有大行",
+      "fineAmount": 240,
+      "fineDisplay": "240万元",
+      "penaltyDetail": "罚款人民币240万元",
+      "responsible": "林池清警告并罚款5万元；翁小燕被警告",
+      "authority": "福建金融监管局",
+      "region": "福建",
+      "date": "2026-08-12",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营贷",
+        "贷前调查不尽职",
+        "贷后管理不到位"
+      ],
+      "violation": "涉农贷款数据管理不到位；极速贷（线上）业务管理不到位；个人住房贷款贷前调查不尽职；个人装修贷贷前调查不尽职及贷后管理不到位；个人经营贷风险分类管理不到位；现金管理业务收费管理不规范。",
+      "complianceNote": "个人经营贷须按实际还款能力与经营状况准确进行风险分类，同步完善线上线下零售贷款三查机制。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-08-sh-115",
+      "docNo": "沪金罚决字〔2026〕115号",
+      "institution": "中国农业银行股份有限公司上海市分行",
+      "institutionType": "国有大行",
+      "fineAmount": 1210,
+      "fineDisplay": "1210万元",
+      "penaltyDetail": "罚款1210万元",
+      "responsible": "孙巍、张国军、施征宇等多名责任人被警告并罚款5万至10万元",
+      "authority": "上海金融监管局",
+      "region": "上海",
+      "date": "2026-08-03",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票贴现业务管理不到位",
+        "贷后管理严重违反审慎经营规则"
+      ],
+      "violation": "固定资产贷款管理严重违反审慎经营规则；经营性物业贷款授信管理严重违反审慎经营规则；贷款资产风险分类不实；流动资金贷款需求测算不合理；信用证押汇业务授信后管理不到位；银行承兑汇票贴现业务管理不到位。",
+      "complianceNote": "千万级大额罚单直指银票贴现管理与固贷/流贷授信后管理，须严核贴现资金去向与贷款测算合理性。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-08-sh-108",
+      "docNo": "沪金罚决字〔2026〕108号",
+      "institution": "上海银行股份有限公司",
+      "institutionType": "城商行",
+      "fineAmount": 316,
+      "fineDisplay": "316万元",
+      "penaltyDetail": "警告并罚款316万元",
+      "responsible": "陈燕君、吴建平等4名责任人被警告并罚款共计12万元",
+      "authority": "上海金融监管局",
+      "region": "上海",
+      "date": "2026-08-03",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票业务背景审查不严"
+      ],
+      "violation": "银行承兑汇票业务背景审查不严；贷款管理严重违反审慎经营规则；部分业务手续费收入会计核算不规范；未开立独立的代理保险业务佣金收取账户。",
+      "complianceNote": "对照商业汇票真实交易材料审查指引，严查承兑汇票贸易背景真实性与合理性。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-08-hb-001",
+      "docNo": "鄂金罚决字〔2026〕8月公开表",
+      "institution": "浙商银行股份有限公司武汉分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 155,
+      "fineDisplay": "155万元",
+      "penaltyDetail": "罚款155万元",
+      "responsible": "相关责任人依法另案处理",
+      "authority": "湖北金融监管局",
+      "region": "湖北",
+      "date": "2026-08-01",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查贷后管理不尽职",
+        "贷款资金被挪用"
+      ],
+      "violation": "经营性物业贷款贷前调查贷后管理不尽职；项目贷款管理不审慎；贷款资金被挪用等。",
+      "complianceNote": "重点加强物业贷与项目贷贷前尽调与贷后受托支付流向追踪，防范资金挪用。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-07-js-014",
+      "docNo": "苏金罚决字〔2026〕7月公开表",
+      "institution": "浙江稠州商业银行股份有限公司南京分行及下辖3家支行",
+      "institutionType": "城商行",
+      "fineAmount": 555,
+      "fineDisplay": "555万元",
+      "penaltyDetail": "南京分行及溧水、江宁竹山路、莫愁湖支行合计罚款555万元",
+      "responsible": "赵敏等7人警告并罚款51万元；曹颖俊禁业3年；陈军禁业7年",
+      "authority": "江苏金融监管局",
+      "region": "江苏",
+      "date": "2026-07-14",
+      "categories": [
+        "票据",
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款管理不尽职",
+        "无真实贸易背景的银行承兑汇票",
+        "授信调查审查不审慎"
+      ],
+      "violation": "个人经营性贷款管理不尽职；未落实授信条件开立国内信用证；授信调查审查不审慎；运营管理不力；办理无真实贸易背景的银行承兑汇票业务；未按规定办理存单质押业务；核保核签不审慎；印章核验不审慎。",
+      "complianceNote": "同时踩中票据无真实贸易背景、个人经营贷管理不尽职与授信调查审查三条红线，是典型全流程合规警示案例。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-07-sz-003",
+      "docNo": "深金罚决字〔2026〕7月公开表",
+      "institution": "大众银行（香港）有限公司深圳分行",
+      "institutionType": "其他金融机构",
+      "fineAmount": 45,
+      "fineDisplay": "45万元",
+      "penaltyDetail": "罚款45万元",
+      "responsible": "许利明被警告并罚款5万元",
+      "authority": "深圳金融监管局",
+      "region": "广东",
+      "date": "2026-07-03",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不到位"
+      ],
+      "violation": "个人消费贷款“三查”不到位。",
+      "complianceNote": "外资银行在华分行开展零售信贷同样须严格落实境内贷款“三查”监管标准。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-06-js-018",
+      "docNo": "苏金罚决字〔2026〕6月公开表",
+      "institution": "恒丰银行股份有限公司南京分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 50,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "罚款50万元",
+      "responsible": "陈秋磊禁业15年；刘世佳禁业4年",
+      "authority": "江苏金融监管局",
+      "region": "江苏",
+      "date": "2026-06-18",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不到位"
+      ],
+      "violation": "贷款“三查”不到位。",
+      "complianceNote": "贷款“三查”严重失职导致风险暴露的，直接责任人面临长达15年禁业重罚。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-06-nb-005",
+      "docNo": "甬金罚决字〔2026〕6月公开表",
+      "institution": "中国工商银行股份有限公司宁波市分行",
+      "institutionType": "国有大行",
+      "fineAmount": 380,
+      "fineDisplay": "380万元",
+      "penaltyDetail": "罚款380万元",
+      "responsible": "丁一、郑宁、唐俏蕾、狄专红警告并罚款共计22万元",
+      "authority": "宁波金融监管局",
+      "region": "浙江",
+      "date": "2026-06-05",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不审慎",
+        "票据业务不合规"
+      ],
+      "violation": "内控管理不规范；贷款“三查”不审慎；小微企业贷款风险分类不准确；票据业务不合规等。",
+      "complianceNote": "同步整改小微贷款风险分类失真、贷款“三查”不审慎及票据业务不合规问题。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-05-sz-022",
+      "docNo": "深金罚决字〔2026〕5月公开表",
+      "institution": "中国农业银行股份有限公司深圳市分行",
+      "institutionType": "国有大行",
+      "fineAmount": 205,
+      "fineDisplay": "205万元",
+      "penaltyDetail": "没收违法所得3.17万元并罚款205万元",
+      "responsible": "陈某春等5人被警告",
+      "authority": "深圳金融监管局",
+      "region": "广东",
+      "date": "2026-05-22",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票保证金来源不合规",
+        "个人贷款三查不到位"
+      ],
+      "violation": "银行承兑汇票保证金来源不合规；个人贷款三查不到位。",
+      "complianceNote": "严禁贷款或贴现资金回流充当银票保证金，须穿透核查保证金来源与个人贷款三查档案。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-05-zj-018",
+      "docNo": "浙金罚决字〔2026〕5月公开表",
+      "institution": "浙江富阳农村商业银行股份有限公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 470,
+      "fineDisplay": "470万元",
+      "penaltyDetail": "罚款470万元",
+      "responsible": "王某杰警告并罚10万元；张某军禁业5年；陈某等4人被警告",
+      "authority": "浙江金融监管局",
+      "region": "浙江",
+      "date": "2026-05-18",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款三查未尽职",
+        "个人贷款被违规挪用"
+      ],
+      "violation": "贷款三查未尽职；贷款管理不到位，个人贷款被违规挪用；流动资金贷款管理不到位，信贷资金被挪用于限制性领域等。",
+      "complianceNote": "严防个人贷款及流贷资金违规流入房地产等限制性领域，落实贷后资金闭环核查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-05-hn-018",
+      "docNo": "豫金罚决字〔2026〕5月公开表",
+      "institution": "渤海银行股份有限公司郑州分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 350,
+      "fineDisplay": "350万元",
+      "penaltyDetail": "罚款350万元",
+      "responsible": "相关责任人同步被警告处罚",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2026-05-18",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不到位",
+        "银行承兑汇票",
+        "贸易背景真实性",
+        "滚动开票"
+      ],
+      "violation": "发放无实际用途存单质押贷款虚增业务规模；贷款归还本行银承垫款；贷款“三查”不到位，贷款资金被挪用；滚动开票虚增业务规模；银行承兑汇票业务未严格审查贸易背景真实性，贴现资金回流出票人股东。",
+      "complianceNote": "典型“以票养票”与贴现资金回流案例，须严控存单质押虚增规模及滚动开票套利行为。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-05-sc-015",
+      "docNo": "川金罚决字〔2026〕5月公开表",
+      "institution": "乐山市商业银行股份有限公司成都分行",
+      "institutionType": "城商行",
+      "fineAmount": 90,
+      "fineDisplay": "90万元",
+      "penaltyDetail": "罚款90万元",
+      "responsible": "尹麟警告并罚8万元；张扬警告并罚7万元；刘攀警告并罚6万元",
+      "authority": "四川金融监管局",
+      "region": "四川",
+      "date": "2026-05-15",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不尽职"
+      ],
+      "violation": "贷款“三查”不尽职等。",
+      "complianceNote": "异地分行须同步强化总行垂直合规抽查，防止“三查”执行走样。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-05-gd-012",
+      "docNo": "粤金罚决字〔2026〕5月公开表",
+      "institution": "广东华润银行股份有限公司广州分行",
+      "institutionType": "城商行",
+      "fineAmount": 55,
+      "fineDisplay": "55万元",
+      "penaltyDetail": "罚款55万元",
+      "responsible": "2名相关责任人被警告",
+      "authority": "广东金融监管局",
+      "region": "广东",
+      "date": "2026-05-12",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "贷后管理不尽职"
+      ],
+      "violation": "未落实授信条件即发放贷款；个人经营性贷款贷后管理不尽职。",
+      "complianceNote": "严格把控放款前提条件落实审核，完善个人经营贷贷后定期回访与用途核验。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-05-hn-010",
+      "docNo": "湘金罚决字〔2026〕5月公开表",
+      "institution": "中国建设银行股份有限公司湖南省分行",
+      "institutionType": "国有大行",
+      "fineAmount": 95,
+      "fineDisplay": "95万元",
+      "penaltyDetail": "罚款95万元",
+      "responsible": "贺某、侯某被禁止从事银行业工作终身",
+      "authority": "湖南金融监管局",
+      "region": "湖南",
+      "date": "2026-05-10",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款三查不到位"
+      ],
+      "violation": "贷款三查不到位；员工管理不到位。",
+      "complianceNote": "涉及员工违规操作与贷款三查失守叠加案件，责任人面临终身禁业顶格问责。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-04-qd-015",
+      "docNo": "青金罚决字〔2026〕4月公开表",
+      "institution": "浙商银行股份有限公司青岛分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 195,
+      "fineDisplay": "195万元",
+      "penaltyDetail": "罚款195万元",
+      "responsible": "4名相关责任人被警告或罚款",
+      "authority": "青岛金融监管局",
+      "region": "山东",
+      "date": "2026-04-15",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "贸易背景审查不严"
+      ],
+      "violation": "违规开展总行禁止办理的业务；贸易背景审查不严；房地产贷款管控严重不审慎；融资担保中心合作业务开展不审慎。",
+      "complianceNote": "严守贸易背景真实性审查要求与总行业务负面清单，不得变相突破授信管控。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-03-fs-018",
+      "docNo": "佛金监罚决字〔2026〕3月公开表",
+      "institution": "广东华润银行股份有限公司佛山分行",
+      "institutionType": "城商行",
+      "fineAmount": 40,
+      "fineDisplay": "40万元",
+      "penaltyDetail": "罚款40万元",
+      "responsible": "3名相关责任人被警告",
+      "authority": "佛山金融监管分局",
+      "region": "广东",
+      "date": "2026-03-18",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "“三查”不到位"
+      ],
+      "violation": "个人经营性贷款“三查”不到位。",
+      "complianceNote": "个人经营性贷款从客户准入、授信审批到贷后回访必须完整落实“三查”留痕。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-qz-002",
+      "docNo": "泉金监罚决字〔2026〕公开表",
+      "institution": "泉州银行股份有限公司",
+      "institutionType": "城商行",
+      "fineAmount": 625,
+      "fineDisplay": "625万元",
+      "penaltyDetail": "合计处以625万元罚款",
+      "responsible": "林堃铭被禁止从事银行业工作终身；杨某、骆某如、陈某春分别被警告并罚款5万元",
+      "authority": "泉州金融监管分局",
+      "region": "福建",
+      "date": "2026-02-14",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "贷款“三查”不到位"
+      ],
+      "violation": "小微企业和涉农贷款数据不真实；信贷资产风险分类管理不到位；个人贷款业务管理不到位；不当吸收存款；EAST数据报送不准确；贷款“三查”不到位；办理银行承兑汇票业务不尽职；第三方合作数据安全风险管控不到位。",
+      "complianceNote": "同时触及银行承兑汇票承兑审查不尽职与贷款“三查”缺失，且伴随高管终身禁业，需强化承兑汇票与授信全流程内控。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-gx-013",
+      "docNo": "桂金罚决字〔2026〕2月公开表",
+      "institution": "中信银行股份有限公司南宁分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 110,
+      "fineDisplay": "110万元",
+      "penaltyDetail": "罚款110万元",
+      "responsible": "钟某峰被警告",
+      "authority": "广西金融监管局",
+      "region": "广西",
+      "date": "2026-02-13",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "违规办理票据业务",
+        "贷款调查不尽职",
+        "贷后管理不尽职"
+      ],
+      "violation": "贷款调查不尽职；贷后管理不尽职；未对集团客户统一授信；违规办理票据业务。",
+      "complianceNote": "需将票据敞口纳入集团客户统一授信额度管控，同步强化贷前调查与贷后检查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-cq-012",
+      "docNo": "渝金罚决字〔2026〕公开表",
+      "institution": "交通银行股份有限公司重庆市分行",
+      "institutionType": "国有大行",
+      "fineAmount": 190,
+      "fineDisplay": "190万元",
+      "penaltyDetail": "罚款190万元",
+      "responsible": "江天一、牟红钢被警告",
+      "authority": "重庆金融监管局",
+      "region": "重庆",
+      "date": "2026-02-12",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据业务",
+        "审查不审慎"
+      ],
+      "violation": "相关贷款业务管理不审慎；相关票据业务、信用证业务审查不审慎。",
+      "complianceNote": "票据承兑与贴现业务审查必须落实发票、合同及物流单据交叉验证，杜绝形式审查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-hz-011",
+      "docNo": "湖金罚决字〔2026〕公开表",
+      "institution": "浙江南浔农村商业银行股份有限公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 160,
+      "fineDisplay": "160万元",
+      "penaltyDetail": "罚款160万元",
+      "responsible": "方某被警告",
+      "authority": "湖州金融监管分局",
+      "region": "浙江",
+      "date": "2026-02-11",
+      "categories": [
+        "个人经营贷"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "准入不审慎"
+      ],
+      "violation": "个人经营性贷款准入不审慎等。",
+      "complianceNote": "严把个人经营贷客户准入关，核实营业执照存续时间、实际经营场所与经营流水匹配度。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-ls-011",
+      "docNo": "丽金罚决字〔2026〕公开表",
+      "institution": "交通银行股份有限公司丽水分行",
+      "institutionType": "国有大行",
+      "fineAmount": 35,
+      "fineDisplay": "35万元",
+      "penaltyDetail": "罚款35万元",
+      "responsible": "吴景平被警告",
+      "authority": "丽水金融监管分局",
+      "region": "浙江",
+      "date": "2026-02-11",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据业务贸易背景审查不严"
+      ],
+      "violation": "票据业务贸易背景审查不严。",
+      "complianceNote": "建立票据业务贸易背景电子化核验清单，严查关联企业虚构交易链条开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-hc-001",
+      "docNo": "合川金管罚决字〔2026〕1号",
+      "institution": "交通银行股份有限公司重庆合川支行",
+      "institutionType": "国有大行",
+      "fineAmount": 30,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "罚款30万元",
+      "responsible": "刘协力（时任副行长）被警告",
+      "authority": "合川金融监管分局",
+      "region": "重庆",
+      "date": "2026-02-02",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不尽职"
+      ],
+      "violation": "贷款“三查”不尽职。",
+      "complianceNote": "基层支行须压实贷前、贷中、贷后三查岗位责任，避免流于形式引发问责。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-gx-030",
+      "docNo": "桂金罚决字〔2026〕公开表",
+      "institution": "广西北部湾银行股份有限公司",
+      "institutionType": "城商行",
+      "fineAmount": 205,
+      "fineDisplay": "205万元",
+      "penaltyDetail": "罚款合计205万元",
+      "responsible": "吴某汉、韦某被警告",
+      "authority": "广西金融监管局",
+      "region": "广西",
+      "date": "2026-01-30",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "票据保证金审查不尽职",
+        "贷款资金支付管理不尽职"
+      ],
+      "violation": "贷款资金支付管理不尽职；系统安全管控不尽职；以贷转存；票据保证金审查不尽职；虚增存贷款；存款考核指标设立违反监管规定。",
+      "complianceNote": "严禁信贷资金转作票据保证金或循环开票虚增存款，须穿透核查保证金来源与关联账户流水。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-fj-028",
+      "docNo": "闽金罚决字〔2026〕公开表",
+      "institution": "交通银行股份有限公司福建省分行",
+      "institutionType": "国有大行",
+      "fineAmount": 75,
+      "fineDisplay": "75万元",
+      "penaltyDetail": "合计处以75万元罚款",
+      "responsible": "黄雅茹被警告；林琴琴被警告并罚款5万元",
+      "authority": "福建金融监管局",
+      "region": "福建",
+      "date": "2026-01-28",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "贷前调查不尽职",
+        "贷后管理不到位"
+      ],
+      "violation": "流动资金贷款管理不到位；个人经营性贷款贷前调查不尽职，贷后管理不到位。",
+      "complianceNote": "个人经营贷需重点核验借款人实际经营规模与贷款金额的合理性，落实贷后回访与资金流向核查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-sh-009",
+      "docNo": "沪金罚决字〔2026〕9号",
+      "institution": "交通银行股份有限公司上海市分行",
+      "institutionType": "国有大行",
+      "fineAmount": 611.87,
+      "fineDisplay": "611.87万元",
+      "penaltyDetail": "罚没款合计611.86951万元",
+      "responsible": "相关责任人依法另案处理",
+      "authority": "上海金融监管局",
+      "region": "上海",
+      "date": "2026-01-27",
+      "categories": [
+        "个人经营贷"
+      ],
+      "matchedKeywords": [
+        "个人经营贷款",
+        "审慎经营规则"
+      ],
+      "violation": "向关系人发放信用贷款；违规对个别贷款品种部分免息；置换类个人经营贷款管理严重违反审慎经营规则；项目融资业务严重违反审慎经营规则；流动资金贷款管理严重违反审慎经营规则；固定资产贷款管理严重违反审慎经营规则；贷款五级分类不准确。",
+      "complianceNote": "重点关注置换类个人经营贷款的真实经营背景核验、授信审批边界及资金闭环监测，严防违规置换与用途偏离。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-zj-021",
+      "docNo": "浙金罚决字〔2026〕公开表",
+      "institution": "上海浦东发展银行股份有限公司杭州分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 475,
+      "fineDisplay": "475万元",
+      "penaltyDetail": "罚款475万元",
+      "responsible": "冯某艳、张某霞、赵某波、郑某、夏某被警告",
+      "authority": "浙江金融监管局",
+      "region": "浙江",
+      "date": "2026-01-21",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "贷款“三查”不到位"
+      ],
+      "violation": "流动资金贷款“三查”不到位；个人经营性贷款管理不到位等。",
+      "complianceNote": "高额罚单聚焦流贷“三查”与个人经营性贷款管理短板，需加强贷前准入核实、受托支付审核与贷后资金回流监测。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-qz-020",
+      "docNo": "泉金监罚决字〔2026〕1月公开表",
+      "institution": "泉州农村商业银行股份有限公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 270,
+      "fineDisplay": "270万元",
+      "penaltyDetail": "合计处以270万元罚款",
+      "responsible": "刘某斌等5人被警告；刘某英、彭某昌分别被警告并罚款5万元",
+      "authority": "泉州金融监管分局",
+      "region": "福建",
+      "date": "2026-01-20",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人贷款“三查”不到位",
+        "贷前调查不尽职",
+        "贷后检查不到位"
+      ],
+      "violation": "信贷业务内控管理不到位；授信管理不到位；员工行为管理不到位；个人贷款“三查”不到位；流动资金贷款贷前调查不尽职、贷后检查不到位。",
+      "complianceNote": "个人贷款与流动资金贷款均需建立完整的贷前实地调查、贷时独立审查、贷后定期检查留痕机制。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-hn-175",
+      "docNo": "豫金罚决字〔2025〕175号",
+      "institution": "中国邮政储蓄银行股份有限公司郑州市分行",
+      "institutionType": "国有大行",
+      "fineAmount": 160,
+      "fineDisplay": "160万元",
+      "penaltyDetail": "罚款160万元",
+      "responsible": "郭学庆、温怡博、景李真、郭菁玲分别被警告",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2026-01-09",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "贷后管理不到位",
+        "资金被挪用"
+      ],
+      "violation": "固定资产贷款被挪用；贷后管理不到位，未发现企业流动资金贷款被挪用；信贷资金监控不到位，未发现个人经营性贷款资金被挪用；办理无真实贸易背景的信用证及福费廷业务；违规收取中间业务费用。",
+      "complianceNote": "个人经营性贷款放款后需持续监控资金去向，严防流入房地产、股市或关联方账户。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-hn-180",
+      "docNo": "豫金罚决字〔2025〕180号",
+      "institution": "中国银行股份有限公司河南省分行",
+      "institutionType": "国有大行",
+      "fineAmount": 150,
+      "fineDisplay": "150万元",
+      "penaltyDetail": "罚款150万元",
+      "responsible": "谭波、朱明杰分别被警告",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2026-01-09",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款“三查”不尽职",
+        "贷后管理不到位"
+      ],
+      "violation": "贷后管理不到位；违反监管规定放松对借款人还款能力真实性审查要求；贷款“三查”不尽职，违规发放个人贷款；数据质量管理不审慎。",
+      "complianceNote": "不得为冲量放松借款人收入证明与还款能力真实性审核，贷中审查须独立复核关键风控材料。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-sn-006",
+      "docNo": "陕金罚决字〔2026〕公开表",
+      "institution": "交通银行股份有限公司陕西省分行",
+      "institutionType": "国有大行",
+      "fineAmount": 253,
+      "fineDisplay": "253万元",
+      "penaltyDetail": "罚款253万元",
+      "responsible": "牛博、姚淑芳分别被警告；林雅欣被警告并罚款5万元",
+      "authority": "陕西金融监管局",
+      "region": "陕西",
+      "date": "2026-01-06",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "贷后管理不到位"
+      ],
+      "violation": "发放固定资产贷款不审慎；银行承兑汇票授信后管理不到位；超过借款人实际需求发放流动资金贷款；项目贷款贷后管理不到位。",
+      "complianceNote": "银行承兑汇票授信后管理与项目贷后跟踪同样属于三查高频问责点，需定期复核出票人经营及票据兑付来源。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-np-006",
+      "docNo": "南金监罚决字〔2026〕公开表",
+      "institution": "松溪县农村信用合作联社",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 150,
+      "fineDisplay": "150万元",
+      "penaltyDetail": "合计处以150万元罚款",
+      "responsible": "季某才被警告并罚款5万元",
+      "authority": "南平金融监管分局",
+      "region": "福建",
+      "date": "2026-01-06",
+      "categories": [
+        "个人经营贷"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "无实际经营主体"
+      ],
+      "violation": "违规审批发放贷款并形成案件；违规设置时点考核指标；员工行为管理不到位；向无实际经营主体发放个人经营性贷款。",
+      "complianceNote": "杜绝“空壳执照”或无实际经营实体套取个人经营贷，贷前须现场核验经营实体并留存影像资料。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-qz-006",
+      "docNo": "泉金监罚决字〔2026〕光大公开表",
+      "institution": "中国光大银行股份有限公司泉州分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 120,
+      "fineDisplay": "120万元",
+      "penaltyDetail": "合计处以120万元罚款",
+      "responsible": "蔡某英、吴某被警告",
+      "authority": "泉州金融监管分局",
+      "region": "福建",
+      "date": "2026-01-06",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "贷前调查不尽职",
+        "贷后管理不到位"
+      ],
+      "violation": "个人经营性贷款贷前调查不尽职、贷后管理不到位；流动资金贷款贷前调查不尽职、贷后管理不到位。",
+      "complianceNote": "个人经营贷与对公流贷并行暴露贷前调查与贷后管理漏洞，需强化双人实地尽调及资金用途凭证收集。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-sz-005",
+      "docNo": "苏金罚决字〔2026〕公开表",
+      "institution": "上海浦东发展银行股份有限公司苏州分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 110,
+      "fineDisplay": "110万元",
+      "penaltyDetail": "罚款110万元",
+      "responsible": "陈某、吴某被警告并罚款6万元；李某平被警告并罚款8万元",
+      "authority": "苏州金融监管分局",
+      "region": "江苏",
+      "date": "2026-01-05",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据业务审核不严"
+      ],
+      "violation": "票据业务审核不严；个人贷款管理不到位。",
+      "complianceNote": "严格执行票据承兑与贴现贸易背景审核标准，防范虚假交易合同与重复使用发票。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-2026-zq-003",
+      "docNo": "肇金罚决字〔2025〕3号",
+      "institution": "广州农村商业银行股份有限公司肇庆分行",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 45,
+      "fineDisplay": "45万元",
+      "penaltyDetail": "罚款合计45万元",
+      "responsible": "详见决定书",
+      "authority": "肇庆金融监管分局",
+      "region": "广东",
+      "date": "2026-01-05",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "无真实贸易背景",
+        "银行承兑汇票"
+      ],
+      "violation": "违规办理无真实贸易背景的银行承兑汇票业务；违规向小微企业转嫁费用。",
+      "complianceNote": "无真实贸易背景开立银行承兑汇票是票据领域最高频违规红线，需严格核对增值税发票及交货凭证。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-8fafc6130f84",
+      "docNo": "云南金融监管公开表(2025-12-15)",
+      "institution": "上海浦东发展银行股份有限公司昆明分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 50.0,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "对上海浦东发展银行股份有限公司昆明分行罚款50万元，对相关分支机构罚款70万元；对李仙周、张昱警告。",
+      "responsible": "对上海浦东发展银行股份有限公司昆明分行罚款50万元，对相关分支机构罚款70万元",
+      "authority": "云南金融监管局",
+      "region": "云南",
+      "date": "2025-12-15",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款“三查”严重不尽职",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1237423"
+    },
+    {
+      "id": "nfra-233f74661ff7",
+      "docNo": "江苏金融监管公开表(2025-12-15)",
+      "institution": "上海浦东发展银行股份有限公司南京雨花支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 40.0,
+      "fineDisplay": "40万元",
+      "penaltyDetail": "罚款40万元",
+      "responsible": "详见决定书",
+      "authority": "江苏金融监管局",
+      "region": "江苏",
+      "date": "2025-12-15",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款“三查”不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1238279"
+    },
+    {
+      "id": "nfra-83530d06aeef",
+      "docNo": "江苏金融监管公开表(2025-12-15)",
+      "institution": "上海浦东发展银行股份有限公司南京城西支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 40.0,
+      "fineDisplay": "40万元",
+      "penaltyDetail": "罚款40万元",
+      "responsible": "详见决定书",
+      "authority": "江苏金融监管局",
+      "region": "江苏",
+      "date": "2025-12-15",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票"
+      ],
+      "violation": "银行承兑汇票业务内部控制不到位",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1238275"
+    },
+    {
+      "id": "nfra-c82c6084a875",
+      "docNo": "重庆金融监管公开表(2025-12-12)",
+      "institution": "重庆三峡银行股份有限公司",
+      "institutionType": "城商行",
+      "fineAmount": 890.0,
+      "fineDisplay": "890万元",
+      "penaltyDetail": "罚款共计890万元",
+      "responsible": "详见决定书",
+      "authority": "重庆金融监管局",
+      "region": "重庆",
+      "date": "2025-12-12",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "内控管理不到位；违规发放贷款；“三查”严重不尽职；虚增普惠金融服务数据；金融资产风险分类不准确，拨备计提不足；非标准化债权类资产的终止日晚于封闭式理财产品的到期日；授信管理不尽职；员工行为管理不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1237202"
+    },
+    {
+      "id": "nfra-d9e569d8bfaa",
+      "docNo": "江苏金融监管公开表(2025-12-12)",
+      "institution": "江苏高淳农村商业银行股份有限公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 170.0,
+      "fineDisplay": "170万元",
+      "penaltyDetail": "罚款170万元",
+      "responsible": "详见决定书",
+      "authority": "江苏金融监管局",
+      "region": "江苏",
+      "date": "2025-12-12",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "债券投资业务不合规、违规设立存款相关考评指标、违规办理续贷、发放不符合条件的个人贷款、发放股东贷款贷前调查不审慎",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1239399"
+    },
+    {
+      "id": "nfra-87d71e2746f2",
+      "docNo": "江苏金融监管公开表(2025-12-12)",
+      "institution": "平安银行股份有限公司南京分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 90.0,
+      "fineDisplay": "90万元",
+      "penaltyDetail": "罚款90万元",
+      "responsible": "详见决定书",
+      "authority": "江苏金融监管局",
+      "region": "江苏",
+      "date": "2025-12-12",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票",
+        "贴现"
+      ],
+      "violation": "银行承兑汇票贴现申请人资信调查不审慎、银行承兑汇票贴现业务贸易背景审核不严",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1239400"
+    },
+    {
+      "id": "nfra-d308b049855a",
+      "docNo": "重庆金融监管公开表(2025-12-12)",
+      "institution": "渝农商金融租赁有限责任公司",
+      "institutionType": "其他金融机构",
+      "fineAmount": 60.0,
+      "fineDisplay": "60万元",
+      "penaltyDetail": "罚款共计60万元",
+      "responsible": "详见决定书",
+      "authority": "重庆金融监管局",
+      "region": "重庆",
+      "date": "2025-12-12",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "租赁物不适格；租赁业务“三查”不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1237202"
+    },
+    {
+      "id": "nfra-44aaae80a6d5",
+      "docNo": "江苏金融监管公开表(2025-12-12)",
+      "institution": "杨正彬（江苏高淳农村商业银行股份有限公司公司金融部总经理）",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 8.0,
+      "fineDisplay": "8万元",
+      "penaltyDetail": "警告并罚款8万元",
+      "responsible": "详见决定书",
+      "authority": "江苏金融监管局",
+      "region": "江苏",
+      "date": "2025-12-12",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "违规办理续贷、发放股东贷款贷前调查不审慎",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1239399"
+    },
+    {
+      "id": "nfra-7d457f837a78",
+      "docNo": "金融监管总局公开表(2025-10-31)",
+      "institution": "中国民生银行股份有限公司",
+      "institutionType": "股份制银行",
+      "fineAmount": 36.0,
+      "fineDisplay": "36万元",
+      "penaltyDetail": "对中国民生银行股份有限公司罚款5865万元。对王周屋、向敏、李斌、何凡、王仲翔、黄绍辉警告并罚款合计36万元。",
+      "responsible": "对中国民生银行股份有限公司罚款5865万元",
+      "authority": "金融监管总局",
+      "region": "全国",
+      "date": "2025-10-31",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据"
+      ],
+      "violation": "相关贷款、票据、同业等业务管理不审慎，监管数据报送不合规等",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1231550"
+    },
+    {
+      "id": "nfra-c932df4bb343",
+      "docNo": "金融监管总局公开表(2025-10-31)",
+      "institution": "中国银行股份有限公司",
+      "institutionType": "国有大行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "对中国银行股份有限公司罚款9790万元。对陈梓、刘伶俐、张惠娟、何春耕、余荣刚警告并罚款合计30万元。",
+      "responsible": "对中国银行股份有限公司罚款9790万元",
+      "authority": "金融监管总局",
+      "region": "全国",
+      "date": "2025-10-31",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据"
+      ],
+      "violation": "相关公司治理、贷款、同业、票据、资产质量、不良资产处置等业务管理不审慎",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1231550"
+    },
+    {
+      "id": "nfra-65bb927690e3",
+      "docNo": "安徽公开表(2025-10-24)",
+      "institution": "徽商银行股份有限公司",
+      "institutionType": "城商行",
+      "fineAmount": 240.0,
+      "fineDisplay": "240万元",
+      "penaltyDetail": "对徽商银行股份有限公司罚款240万元。对王涛禁止从事银行业工作10年；对张晓乐、高朦警告。",
+      "responsible": "对徽商银行股份有限公司罚款240万元",
+      "authority": "安徽",
+      "region": "安徽",
+      "date": "2025-10-24",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款产品管理不审慎、贷款三查不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1230521"
+    },
+    {
+      "id": "nfra-3bce403b629b",
+      "docNo": "安徽公开表(2025-10-24)",
+      "institution": "国家开发银行安徽省分行",
+      "institutionType": "城商行",
+      "fineAmount": 60.0,
+      "fineDisplay": "60万元",
+      "penaltyDetail": "对国家开发银行安徽省分行罚款60万元。对陈涛焘警告并罚款6万元。",
+      "responsible": "对国家开发银行安徽省分行罚款60万元",
+      "authority": "安徽",
+      "region": "安徽",
+      "date": "2025-10-24",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款三查不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1230521"
+    },
+    {
+      "id": "nfra-7e1f57c627c9",
+      "docNo": "安徽公开表(2025-10-24)",
+      "institution": "徽商银行股份有限公司合肥包河工业园支行",
+      "institutionType": "城商行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "对徽商银行股份有限公司合肥包河工业园支行罚款30万元。对韦杰警告。",
+      "responsible": "对徽商银行股份有限公司合肥包河工业园支行罚款30万元",
+      "authority": "安徽",
+      "region": "安徽",
+      "date": "2025-10-24",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "贷前调查不尽职",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1230521"
+    },
+    {
+      "id": "nfra-ded896299977",
+      "docNo": "安徽公开表(2025-10-24)",
+      "institution": "中国农业银行股份有限公司合肥瑶海区支行",
+      "institutionType": "国有大行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "对中国农业银行股份有限公司合肥瑶海区支行罚款30万元。对冯旭辉、凌玲警告。",
+      "responsible": "对中国农业银行股份有限公司合肥瑶海区支行罚款30万元",
+      "authority": "安徽",
+      "region": "安徽",
+      "date": "2025-10-24",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "贷前调查不尽职",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1230521"
+    },
+    {
+      "id": "nfra-f70e1da2f31f",
+      "docNo": "安徽公开表(2025-10-24)",
+      "institution": "中国农业银行股份有限公司合肥庐阳区支行",
+      "institutionType": "国有大行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "对中国农业银行股份有限公司合肥庐阳区支行罚款30万元。对刘咏珩、彭瑞雪警告。",
+      "responsible": "对中国农业银行股份有限公司合肥庐阳区支行罚款30万元",
+      "authority": "安徽",
+      "region": "安徽",
+      "date": "2025-10-24",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "贷前调查不尽职",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1230521"
+    },
+    {
+      "id": "nfra-83bd493cd5fe",
+      "docNo": "安徽公开表(2025-10-24)",
+      "institution": "徽商银行股份有限公司合肥宁国路支行相关责任人",
+      "institutionType": "城商行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "对唐勇禁止从事银行业工作终身。",
+      "responsible": "详见决定书",
+      "authority": "安徽",
+      "region": "安徽",
+      "date": "2025-10-24",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理"
+      ],
+      "violation": "贷前、贷后管理不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1230521"
+    },
+    {
+      "id": "nfra-5775cf7e73c4",
+      "docNo": "重庆金融监管公开表(2025-10-22)",
+      "institution": "重庆银行股份有限公司",
+      "institutionType": "城商行",
+      "fineAmount": 220.0,
+      "fineDisplay": "220万元",
+      "penaltyDetail": "罚款共计220万元",
+      "responsible": "详见决定书",
+      "authority": "重庆金融监管局",
+      "region": "重庆",
+      "date": "2025-10-22",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款“三查”不尽职、投资业务不审慎",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1230246"
+    },
+    {
+      "id": "nfra-cee8c2f61b52",
+      "docNo": "福建金融监管公开表(2025-10-21)",
+      "institution": "中国农业银行股份有限公司福州长乐支行",
+      "institutionType": "国有大行",
+      "fineAmount": 95.0,
+      "fineDisplay": "95万元",
+      "penaltyDetail": "合计处以95万元罚款",
+      "responsible": "详见决定书",
+      "authority": "福建金融监管局",
+      "region": "福建",
+      "date": "2025-10-21",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "个人经营性",
+        "经营性贷款",
+        "贷前调查",
+        "贷后管理"
+      ],
+      "violation": "农户贷款、流动资金贷款、个人经营性贷款贷前调查不尽职、贷后管理不到位",
+      "complianceNote": "穿透核验个人经营贷实际经营实体、流水匹配度及资金闭环流向。压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1229985"
+    },
+    {
+      "id": "nfra-5848be38207f",
+      "docNo": "江苏金融监管公开表(2025-10-20)",
+      "institution": "江苏溧水民丰村镇银行有限责任公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 110.0,
+      "fineDisplay": "110万元",
+      "penaltyDetail": "罚款110万元",
+      "responsible": "详见决定书",
+      "authority": "江苏金融监管局",
+      "region": "江苏",
+      "date": "2025-10-20",
+      "categories": [
+        "个人经营贷"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "个人经营性",
+        "经营性贷款"
+      ],
+      "violation": "重大关联交易未按规定审批和报告、个人经营性贷款调查不审慎、贷款风险分类不准确",
+      "complianceNote": "穿透核验个人经营贷实际经营实体、流水匹配度及资金闭环流向。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1232189"
+    },
+    {
+      "id": "nfra-899e2f6a5373",
+      "docNo": "北京金融监管公开表(2025-10-17)",
+      "institution": "平安银行北京分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 544.12,
+      "fineDisplay": "544.12万元",
+      "penaltyDetail": "对平安银行北京分行罚没合计544.12万元，对莫湘婷禁止5年内从事银行业工作，对杨旭禁止3年内从事银行业工作，对章意鑫禁止1年内从事银行业工作，对成语警告并处罚款10万元，对吴文韬警告并处罚款5万元",
+      "responsible": "对平安银行北京分行罚没合计544.12万元，对莫湘婷禁止5年内从事银行业工作，对杨旭禁止3年内从事银行业工作，对章意鑫禁止1年内从事银行业工作，对成语警告并处罚款10万元，对吴文韬警告并处罚款5万元",
+      "authority": "北京金融监管局",
+      "region": "北京",
+      "date": "2025-10-17",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "个人经营性",
+        "经营性贷款",
+        "三查"
+      ],
+      "violation": "以不正当手段发放贷款，个人贷款“三查”不到位，个人经营性贷款业务内控管理存在缺陷",
+      "complianceNote": "穿透核验个人经营贷实际经营实体、流水匹配度及资金闭环流向。压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1229835"
+    },
+    {
+      "id": "nfra-f5ef66567a08",
+      "docNo": "重庆金融监管公开表(2025-10-17)",
+      "institution": "兴业银行股份有限公司重庆分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 420.0,
+      "fineDisplay": "420万元",
+      "penaltyDetail": "罚款共计420万元",
+      "responsible": "详见决定书",
+      "authority": "重庆金融监管局",
+      "region": "重庆",
+      "date": "2025-10-17",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贴现",
+        "三查"
+      ],
+      "violation": "贷款“三查”不尽职，授信管理不到位，资产分类不准确，贴现资金回流，非标投资业务管理不到位，规避“双录”",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1229659"
+    },
+    {
+      "id": "nfra-486d6a842e3f",
+      "docNo": "国家金融监督公开表(2025-10-17)",
+      "institution": "兴业银行股份有限公司宁波分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 110.0,
+      "fineDisplay": "110万元",
+      "penaltyDetail": "对兴业银行股份有限公司宁波分行罚款110万元。对毕楹、谢梦分别给予警告。",
+      "responsible": "对兴业银行股份有限公司宁波分行罚款110万元",
+      "authority": "国家金融监督管理总局宁波监管局",
+      "region": "宁波",
+      "date": "2025-10-17",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款“三查”不到位、投资业务管理不尽职、信用卡业务管理不审慎",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1229800"
+    },
+    {
+      "id": "nfra-06f52663e855",
+      "docNo": "金融监管总局公开表(2025-09-12)",
+      "institution": "恒丰银行股份有限公司",
+      "institutionType": "股份制银行",
+      "fineAmount": 25.0,
+      "fineDisplay": "25万元",
+      "penaltyDetail": "对恒丰银行股份有限公司罚款6150万元。对王洋、魏会敏、杜娟、凌勇警告并罚款合计25万元；对李勇、郑现中警告。",
+      "responsible": "对恒丰银行股份有限公司罚款6150万元",
+      "authority": "金融监管总局",
+      "region": "全国",
+      "date": "2025-09-12",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据"
+      ],
+      "violation": "相关贷款、票据、理财等业务管理不审慎，监管数据报送不合规等",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1225641"
+    },
+    {
+      "id": "nfra-14a3b75b3c78",
+      "docNo": "金融监管总局公开表(2025-09-12)",
+      "institution": "广发银行股份有限公司",
+      "institutionType": "股份制银行",
+      "fineAmount": 10.0,
+      "fineDisplay": "10万元",
+      "penaltyDetail": "对广发银行股份有限公司罚款6670万元。对李工凡、陈卉警告并罚款合计10万元。",
+      "responsible": "对广发银行股份有限公司罚款6670万元",
+      "authority": "金融监管总局",
+      "region": "全国",
+      "date": "2025-09-12",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据"
+      ],
+      "violation": "相关贷款、票据、保理等业务管理不审慎，监管数据报送不合规等",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1225641"
+    },
+    {
+      "id": "nfra-9d6e890cade6",
+      "docNo": "金融监管总局公开表(2025-09-05)",
+      "institution": "华夏银行股份有限公司",
+      "institutionType": "股份制银行",
+      "fineAmount": 20.0,
+      "fineDisplay": "20万元",
+      "penaltyDetail": "对华夏银行股份有限公司罚款8725万元。对陈成天、刘建新警告；对钱建华、何羽、吕玉梅、涂超警告并罚款合计20万元。",
+      "responsible": "对华夏银行股份有限公司罚款8725万元",
+      "authority": "金融监管总局",
+      "region": "全国",
+      "date": "2025-09-05",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据"
+      ],
+      "violation": "相关贷款、票据、同业等业务管理不审慎，监管数据报送不合规等",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1224725"
+    },
+    {
+      "id": "nfra-6401b0f776a0",
+      "docNo": "西藏金融监管公开表(2025-08-27)",
+      "institution": "西藏银行股份有限公司山南市贡嘎县支行",
+      "institutionType": "城商行",
+      "fineAmount": 20.0,
+      "fineDisplay": "20万元",
+      "penaltyDetail": "罚款20万元",
+      "responsible": "详见决定书",
+      "authority": "西藏金融监管局",
+      "region": "西藏",
+      "date": "2025-08-27",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款“三查”不审慎",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1223441"
+    },
+    {
+      "id": "nfra-e9405983e11e",
+      "docNo": "重庆金融监管公开表(2025-08-20)",
+      "institution": "恒丰银行股份有限公司重庆分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 260.0,
+      "fineDisplay": "260万元",
+      "penaltyDetail": "罚款共计260万元",
+      "responsible": "详见决定书",
+      "authority": "重庆金融监管局",
+      "region": "重庆",
+      "date": "2025-08-20",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "掩盖不良贷款，投资管理不到位，贷款“三查”不尽职",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1222047"
+    },
+    {
+      "id": "nfra-edb5e60cdc6b",
+      "docNo": "广东金融监管公开表(2025-08-20)",
+      "institution": "广州黄埔融和村镇银行股份有限公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 95.0,
+      "fineDisplay": "95万元",
+      "penaltyDetail": "对广州黄埔融和村镇银行股份有限公司罚款95万元。对胡泉、汪期仪、王乐给予警告。",
+      "responsible": "对广州黄埔融和村镇银行股份有限公司罚款95万元",
+      "authority": "广东金融监管局",
+      "region": "广东",
+      "date": "2025-08-20",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理"
+      ],
+      "violation": "跨经营区域发放贷款、授信业务未实现审贷分离、个人消费贷款贷后管理不审慎、向客户转嫁押品评估费",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1268098"
+    },
+    {
+      "id": "nfra-1d07d3b3f5a5",
+      "docNo": "重庆金融监管公开表(2025-08-20)",
+      "institution": "中国光大银行股份有限公司重庆分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "罚款30万元",
+      "responsible": "详见决定书",
+      "authority": "重庆金融监管局",
+      "region": "重庆",
+      "date": "2025-08-20",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "贴现"
+      ],
+      "violation": "贴现后管理不到位",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1222047"
+    },
+    {
+      "id": "nfra-dfcfc667a993",
+      "docNo": "金融监管总局公开表(2025-08-01)",
+      "institution": "中国农业发展银行",
+      "institutionType": "城商行",
+      "fineAmount": 1020.0,
+      "fineDisplay": "1020万元",
+      "penaltyDetail": "对中国农业发展银行罚款1020万元。",
+      "responsible": "详见决定书",
+      "authority": "金融监管总局",
+      "region": "全国",
+      "date": "2025-08-01",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理"
+      ],
+      "violation": "信贷资金投向不合规、贷后管理不到位等",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1219958"
+    },
+    {
+      "id": "nfra-2025-sd-090",
+      "docNo": "鲁金罚决字〔2025〕90-93号",
+      "institution": "兴业银行股份有限公司临沂商城支行、威海文登支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 65,
+      "fineDisplay": "65万元",
+      "penaltyDetail": "两家支行分别被罚款35万元和30万元，合计65万元",
+      "responsible": "隋明夏、逸泽被警告",
+      "authority": "山东金融监管局",
+      "region": "山东",
+      "date": "2025-07-30",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据业务贸易背景审核不尽职"
+      ],
+      "violation": "票据业务贸易背景审核不尽职。",
+      "complianceNote": "对商贸市场等高频开票区域，须强化发票真伪核验与资金回流排查。",
+      "sourceUrl": "https://www.nfra.gov.cn/"
+    },
+    {
+      "id": "nfra-d437be659ed2",
+      "docNo": "国家金融监督公开表(2025-07-09)",
+      "institution": "浙商银行股份有限公司广州分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 160.0,
+      "fineDisplay": "160万元",
+      "penaltyDetail": "罚款160万元",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局广东监管局",
+      "region": "广东",
+      "date": "2025-07-09",
+      "categories": [
+        "个人经营贷"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "个人经营性",
+        "经营性贷款"
+      ],
+      "violation": "个人经营性贷款业务严重违反审慎经营规则，向关系人违规发放贷款，询证函回函信息不实",
+      "complianceNote": "穿透核验个人经营贷实际经营实体、流水匹配度及资金闭环流向。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1217803"
+    },
+    {
+      "id": "nfra-e5bcb21ebead",
+      "docNo": "上海金融监管公开表(2025-07-04)",
+      "institution": "杭州银行股份有限公司上海分行",
+      "institutionType": "城商行",
+      "fineAmount": 380.0,
+      "fineDisplay": "380万元",
+      "penaltyDetail": "罚款380万元",
+      "responsible": "详见决定书",
+      "authority": "上海金融监管局",
+      "region": "上海",
+      "date": "2025-07-04",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "票据",
+        "贴现",
+        "贷前调查"
+      ],
+      "violation": "流动资金贷款贷前调查严重违反审慎经营规则、未按规定监督检查流动资金贷款使用情况、经营性物业贷款管理严重违反审慎经营规则、个人贷款管理严重违反审慎经营规则、票据贴现业务严重违反审慎经营规则、信用证业务严重违反审慎经营规则、未经任职资格核准实际履行高级管理人员职责",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1216183"
+    },
+    {
+      "id": "nfra-84bf7aa61c1c",
+      "docNo": "金融监管总局公开表(2025-06-27)",
+      "institution": "中国进出口银行",
+      "institutionType": "城商行",
+      "fineAmount": 1810.0,
+      "fineDisplay": "1810万元",
+      "penaltyDetail": "罚款1810万元",
+      "responsible": "详见决定书",
+      "authority": "金融监管总局",
+      "region": "全国",
+      "date": "2025-06-27",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理"
+      ],
+      "violation": "部分种类贷款和政策性业务存在超授信发放、贷款需求测算不准确、贷后管理不到位等违法违规行为",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1215112"
+    },
+    {
+      "id": "nfra-8d6e30d48d4d",
+      "docNo": "内蒙古金融监公开表(2025-05-02)",
+      "institution": "张宇隆（原包商银行、蒙商银行土左支行客户经理）",
+      "institutionType": "城商行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "禁止3年从事银行业工作",
+      "responsible": "详见决定书",
+      "authority": "内蒙古金融监管局",
+      "region": "内蒙古",
+      "date": "2025-05-02",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "贷前调查不到位；挪用客户资金",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1208711"
+    },
+    {
+      "id": "nfra-cdc7a803ea13",
+      "docNo": "重庆金融监管公开表(2025-04-30)",
+      "institution": "中国农业银行股份有限公司重庆市分行",
+      "institutionType": "国有大行",
+      "fineAmount": 219.0,
+      "fineDisplay": "219万元",
+      "penaltyDetail": "罚款共计219万元",
+      "responsible": "详见决定书",
+      "authority": "重庆金融监管局",
+      "region": "重庆",
+      "date": "2025-04-30",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "贸易背景审查"
+      ],
+      "violation": "个人消费贷款被挪用于投资，流动资金贷款用于固定资产修缮，贸易背景审查不严，未按项目进度放款，代理销售保险存在销售误导行为，内控管理不严、超标准收取提前还款违约金，信用卡分期业务电话营销不规范，现金管理综合服务质价不符",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1207054"
+    },
+    {
+      "id": "nfra-ce4300bff3c3",
+      "docNo": "新疆公开表(2025-04-30)",
+      "institution": "昆仑银行股份有限公司乌鲁木齐五一路支行",
+      "institutionType": "城商行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "对支行罚款30万元。对马俊警告并罚款5万元。",
+      "responsible": "对支行罚款30万元",
+      "authority": "新疆",
+      "region": "新疆",
+      "date": "2025-04-30",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据"
+      ],
+      "violation": "票据业务办理不审慎",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1206828"
+    },
+    {
+      "id": "nfra-5a99172c8cbe",
+      "docNo": "河北金融监管公开表(2025-04-29)",
+      "institution": "中国农业银行股份有限公司河北省分行",
+      "institutionType": "国有大行",
+      "fineAmount": 50.0,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "罚款50万元",
+      "responsible": "详见决定书",
+      "authority": "河北金融监管局",
+      "region": "河北",
+      "date": "2025-04-29",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "贷前调查不尽职",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1206565"
+    },
+    {
+      "id": "nfra-e26d20e975e6",
+      "docNo": "国家金融监督公开表(2025-03-06)",
+      "institution": "中国邮政储蓄银行股份有限公司抚顺市分行",
+      "institutionType": "国有大行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "辽金罚决〔2025〕17号",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局辽宁监管局",
+      "region": "辽宁",
+      "date": "2025-03-06",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理",
+        "贷款资金被挪用"
+      ],
+      "violation": "贷后管理不审慎、导致贷款资金被挪用",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1200441"
+    },
+    {
+      "id": "nfra-1ce666187076",
+      "docNo": "国家金融监督公开表(2025-03-06)",
+      "institution": "赵锋时任中国邮政储蓄银行股份有限公司抚顺市分行抚顺县支行公司主管",
+      "institutionType": "国有大行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "辽金罚决〔2025〕16号",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局辽宁监管局",
+      "region": "辽宁",
+      "date": "2025-03-06",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理",
+        "贷款资金被挪用"
+      ],
+      "violation": "对中国邮政储蓄银行股份有限公司抚顺市分行贷后管理不审慎、导致贷款资金被挪用的行为负有责任",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1200440"
+    },
+    {
+      "id": "nfra-626d73d4958e",
+      "docNo": "国家金融监督公开表(2025-03-06)",
+      "institution": "路谣中国邮政储蓄银行股份有限公司抚顺市分行抚顺县支行小企业客户经理",
+      "institutionType": "国有大行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "辽金罚决〔2025〕15号",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局辽宁监管局",
+      "region": "辽宁",
+      "date": "2025-03-06",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理",
+        "贷款资金被挪用"
+      ],
+      "violation": "对中国邮政储蓄银行股份有限公司抚顺市分行贷后管理不审慎、导致贷款资金被挪用的行为负有责任",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1200438"
+    },
+    {
+      "id": "nfra-d72e1fcff5b2",
+      "docNo": "国家金融监督公开表(2025-02-28)",
+      "institution": "中国邮政储蓄银行股份有限公司宁波分行",
+      "institutionType": "国有大行",
+      "fineAmount": 170.0,
+      "fineDisplay": "170万元",
+      "penaltyDetail": "罚款１70万元",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局宁波监管局",
+      "region": "宁波",
+      "date": "2025-02-28",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "供应链融资模式运用不合规，贷款“三查”不到位，内控管理不到位，监管要求未落实",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1199987"
+    },
+    {
+      "id": "nfra-579449512acf",
+      "docNo": "国家金融监督公开表(2025-01-14)",
+      "institution": "天津金城银行股份有限公司",
+      "institutionType": "城商行",
+      "fineAmount": 450.0,
+      "fineDisplay": "450万元",
+      "penaltyDetail": "罚款450万元",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局天津监管局",
+      "region": "天津",
+      "date": "2025-01-14",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "票据",
+        "贴现",
+        "转贴现"
+      ],
+      "violation": "票据转贴现业务及内控管理违规",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1249874"
+    },
+    {
+      "id": "nfra-3b7794ca066e",
+      "docNo": "天津银保监局公开表(2025-01-14)",
+      "institution": "天津滨海农村商业银行股份有限公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 240.0,
+      "fineDisplay": "240万元",
+      "penaltyDetail": "罚款240万元",
+      "responsible": "详见决定书",
+      "authority": "天津银保监局",
+      "region": "天津",
+      "date": "2025-01-14",
+      "categories": [
+        "个人经营贷",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "个人经营性贷款",
+        "个人经营性",
+        "经营性贷款",
+        "贷款资金被挪用"
+      ],
+      "violation": "个人消费贷款资金违规流入房地产领域；贷款风险分类不准确；个人经营性贷款资金被挪用；违规投资债券；置换贷款管理不审慎",
+      "complianceNote": "穿透核验个人经营贷实际经营实体、流水匹配度及资金闭环流向。压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1249876"
+    },
+    {
+      "id": "nfra-91bbaf122f21",
+      "docNo": "天津银保监局公开表(2025-01-14)",
+      "institution": "天津滨海江淮村镇银行股份有限公司",
+      "institutionType": "农商行/农信社",
+      "fineAmount": 60.0,
+      "fineDisplay": "60万元",
+      "penaltyDetail": "罚款60万元",
+      "responsible": "详见决定书",
+      "authority": "天津银保监局",
+      "region": "天津",
+      "date": "2025-01-14",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票"
+      ],
+      "violation": "向不具备主体资格的借款人发放贷款;发放流动资金贷款用于归还银行承兑汇票垫款",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1249863"
+    },
+    {
+      "id": "nfra-dcebe97d3f41",
+      "docNo": "国家金融监督公开表(2024-12-17)",
+      "institution": "天津银行股份有限公司第一中心支行",
+      "institutionType": "城商行",
+      "fineAmount": 60.0,
+      "fineDisplay": "60万元",
+      "penaltyDetail": "罚款60万元",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局天津监管局",
+      "region": "天津",
+      "date": "2024-12-17",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "并购贷款“三查”不尽职",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1253467"
+    },
+    {
+      "id": "nfra-eda5cf2bf336",
+      "docNo": "河南金融监管公开表(2024-12-10)",
+      "institution": "中信银行股份有限公司郑州九如路支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 90.0,
+      "fineDisplay": "90万元",
+      "penaltyDetail": "罚款90万元",
+      "responsible": "详见决定书",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2024-12-10",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "贴现"
+      ],
+      "violation": "银承贴现资金回流出票人；流动资金贷款被挪用于归还他行贷款；信用证议付资金回流开证人",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1190188"
+    },
+    {
+      "id": "nfra-b258d2fb3b43",
+      "docNo": "河南金融监管公开表(2024-12-10)",
+      "institution": "中信银行股份有限公司郑州红专路支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 90.0,
+      "fineDisplay": "90万元",
+      "penaltyDetail": "罚款90万元",
+      "responsible": "详见决定书",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2024-12-10",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款“三查”不严，流动资金贷款被挪用；流动资金贷款被挪用于归还他行贷款",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1190188"
+    },
+    {
+      "id": "nfra-f5f1832ebee1",
+      "docNo": "河南金融监管公开表(2024-12-10)",
+      "institution": "中信银行股份有限公司郑州分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 60.0,
+      "fineDisplay": "60万元",
+      "penaltyDetail": "罚款60万元",
+      "responsible": "详见决定书",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2024-12-10",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "贴现"
+      ],
+      "violation": "银承业务贸易背景不真实，部分贴现资金回流出票人；个人贷款资金违规流入禁止性领域",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1190188"
+    },
+    {
+      "id": "nfra-ee7bce371e07",
+      "docNo": "河南金融监管公开表(2024-12-10)",
+      "institution": "中信银行股份有限公司郑州北龙湖支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 50.0,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "罚款50万元",
+      "responsible": "详见决定书",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2024-12-10",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "贷前调查不尽职，对资料审核不严",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1190188"
+    },
+    {
+      "id": "nfra-30e38fdd2b3d",
+      "docNo": "河南金融监管公开表(2024-12-10)",
+      "institution": "中信银行股份有限公司郑州福元路支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 50.0,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "罚款50万元",
+      "responsible": "详见决定书",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2024-12-10",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "贷款“三查”不严，流动资金贷款被挪用",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1190188"
+    },
+    {
+      "id": "nfra-55179273b582",
+      "docNo": "河南金融监管公开表(2024-12-10)",
+      "institution": "中信银行股份有限公司郑州航空港区支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 50.0,
+      "fineDisplay": "50万元",
+      "penaltyDetail": "罚款50万元",
+      "responsible": "详见决定书",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2024-12-10",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷款资金被挪用"
+      ],
+      "violation": "固定资产贷款资金被挪用至关联企业",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1190188"
+    },
+    {
+      "id": "nfra-c216b0490456",
+      "docNo": "河南金融监管公开表(2024-12-10)",
+      "institution": "中信银行股份有限公司郑州经三路支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 40.0,
+      "fineDisplay": "40万元",
+      "penaltyDetail": "罚款40万元",
+      "responsible": "详见决定书",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2024-12-10",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理",
+        "贷款资金被挪用"
+      ],
+      "violation": "放款审核及贷后管理不到位，贷款资金被挪用至关联企业",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1190188"
+    },
+    {
+      "id": "nfra-f6b3d6044390",
+      "docNo": "河南金融监管公开表(2024-12-10)",
+      "institution": "中信银行股份有限公司郑州祥盛街支行",
+      "institutionType": "股份制银行",
+      "fineAmount": 30.0,
+      "fineDisplay": "30万元",
+      "penaltyDetail": "罚款30万元",
+      "responsible": "详见决定书",
+      "authority": "河南金融监管局",
+      "region": "河南",
+      "date": "2024-12-10",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷前调查"
+      ],
+      "violation": "贷前调查不尽职，对资料审核不严",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1190188"
+    },
+    {
+      "id": "nfra-13f2a3b5206d",
+      "docNo": "云南金融监管公开表(2024-12-06)",
+      "institution": "中国邮政储蓄银行股份有限公司云南省分行",
+      "institutionType": "国有大行",
+      "fineAmount": 490.0,
+      "fineDisplay": "490万元",
+      "penaltyDetail": "对邮储银行云南省分行罚款190万元，对相关分支机构罚款300万元，合计罚款490万元",
+      "responsible": "详见决定书",
+      "authority": "云南金融监管局",
+      "region": "云南",
+      "date": "2024-12-06",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "三查"
+      ],
+      "violation": "减费让利政策落实不到位、贷款“三查”严重不审慎、未落实授信条件发放贷款、信用卡透支资金被挪用、个人贷款支付管理与控制不到位、流动资金贷款管理不到位、对下辖代理营业网点监督管理不到位、代理营业网点保险销售“双录”执行不到位、未严格按照规定履行客户身份识别和风险等级划分审核义务、贷款管理不审慎、贷款“三查”不审慎，形成损失等",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1189260"
+    },
+    {
+      "id": "nfra-c2557dbcf6b0",
+      "docNo": "黑金监罚决字〔2024〕116号",
+      "institution": "平安银行哈尔滨分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "黑金监罚决字〔2024〕116号",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局黑龙江监管局",
+      "region": "黑龙江",
+      "date": "2024-11-18",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理"
+      ],
+      "violation": "流动资金贷款贷后管理不到位、个人贷款贷后管理不到位、高管人员未经核准履职",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1186865"
+    },
+    {
+      "id": "nfra-0b78cecb9a4d",
+      "docNo": "皖金罚决字〔2024〕81号",
+      "institution": "徽商银行股份有限公司合肥宁国路支行",
+      "institutionType": "城商行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "皖金罚决字〔2024〕81号",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局安徽监管局",
+      "region": "安徽",
+      "date": "2024-10-23",
+      "categories": [
+        "三查"
+      ],
+      "matchedKeywords": [
+        "贷后管理"
+      ],
+      "violation": "流动资金贷款贷前、贷后管理不到位",
+      "complianceNote": "压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1183301"
+    },
+    {
+      "id": "nfra-41fe063ef642",
+      "docNo": "吉金罚决字〔2024〕108号",
+      "institution": "中信银行股份有限公司长春分行",
+      "institutionType": "股份制银行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "吉金罚决字〔2024〕108号",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局吉林监管局",
+      "region": "吉林",
+      "date": "2024-09-27",
+      "categories": [
+        "票据",
+        "三查"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票",
+        "贴现",
+        "贷后管理"
+      ],
+      "violation": "办理无真实贸易背景银行承兑汇票贴现业务；贷后管理不到位，未有效监控贷款资金使用情况",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。压实贷前实地调查、贷时独立审查与贷后资金用途跟踪检查责任。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1180411"
+    },
+    {
+      "id": "nfra-aa9a5032511e",
+      "docNo": "金罚决字〔2024〕6号",
+      "institution": "平安银行股份有限公司",
+      "institutionType": "股份制银行",
+      "fineAmount": 0.0,
+      "fineDisplay": "详见决定书",
+      "penaltyDetail": "金罚决字〔2024〕6号",
+      "responsible": "详见决定书",
+      "authority": "国家金融监督管理总局",
+      "region": "全国",
+      "date": "2024-05-17",
+      "categories": [
+        "票据"
+      ],
+      "matchedKeywords": [
+        "银行承兑汇票",
+        "承兑汇票"
+      ],
+      "violation": "一是公司治理与内部控制方面。包括：个别高管人员未经任职资格核准实际履职，同一股东实质提名董事超比例，部分岗位绩效薪酬延期支付比例低于监管要求，未按监管规定审查审批重大关联交易等。二是信贷业务方面。包括：向关系人发放信用贷款，违规发放并购贷款、流动资金贷款、个人贷款，流动资金贷款、个人贷款用途不合规，授信责任认定后问责不到位等。三是同业业务方面。包括：违规接受第三方金融机构信用担保，分支机构承担非标投资信用风险，通过同业投资掩盖资产损失、延缓风险暴露、提供土地储备融资，违规垫付某产品赎回资金，同业非标投资业务未计足风险加权资产，以贵金属产业基金模式融出资金违规用于股权投资等。四是理财业务方面。包括：违规向理财产品提供融资、虚构风险缓释品、未计提风险加权资产，代客理财资金用于本行自营业务，理财产品相互交易，理财产品信息披露不合规，理财投资“名股实债”类资产未计入非标债权类资产投资统计，结构性存款业务实质是“假结构”等。五是其他方面。包括：部分非现场监管统计数据与事实不符，银行承兑汇票保证金来源于贷款资金，未对投保人进行需求分析与风险承受能力测评等。",
+      "complianceNote": "严格核查票据真实贸易背景、增值税发票及保证金来源，杜绝空转开票。",
+      "sourceUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1162465"
+    }
+  ]
+}
